@@ -23,3 +23,5 @@
 	required = true
 [credential]
 	helper = manager
+new line
+new content to config
